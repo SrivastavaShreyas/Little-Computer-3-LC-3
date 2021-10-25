@@ -3,7 +3,7 @@
 ## What is LC-3?
 Little Computer 3, or LC-3, is a type of computer educational programming language, an assembly language, which is a type of low-level programming language. It features a relatively simple instruction set, but can be used to write moderately complex assembly programs, and is a viable target for a C compiler. It has a simplified instruction set compared to **'x86'**, but contains all the main ideas used in modern CPUs.
 
-##Memory
+## Memory
 The LC-3 has 65,536 memory locations (the maximum that is addressable by a 16-bit unsigned integer 2^16), each of which stores a 16-bit value. This means it can store a total of only 128kb, which is a lot smaller than you may be used to! In our program, this memory will be stored in a simple array:
 
 `uint16_t memory[UINT16_MAX];`
@@ -27,4 +27,4 @@ There are just 16 opcodes in LC-3. Everything the computer can calculate is some
 - Perform the instruction using the `parameters` in the instruction.
 - Follow the above steps again untill the result is achieved.
 
-https://github.com/SrivastavaShreyas/Little-Computer-3-LC-3/issues/1
+`https://github.com/SrivastavaShreyas/Little-Computer-3-LC-3/issues/1`
