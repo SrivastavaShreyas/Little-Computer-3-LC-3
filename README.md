@@ -28,3 +28,26 @@ There are just 16 opcodes in LC-3. Everything the computer can calculate is some
 - Follow the above steps again untill the result is achieved.
 
 ![Incremental Life Cytcle](https://github.com/SrivastavaShreyas/Little-Computer-3-LC-3/issues/1?raw=true)
+
+![Procedural Flow Chart](https://github.com/SrivastavaShreyas/Little-Computer-3-LC-3/issues/2?raw=true)
+
+![Virtual Machine Class Diagram](https://github.com/SrivastavaShreyas/Little-Computer-3-LC-3/issues/3?raw=true)
+
+![Virtual Machine Life Cycle](https://github.com/SrivastavaShreyas/Little-Computer-3-LC-3/issues/4?raw=true)
+
+
+## System Requirements [Software / Hardware]:
+
+### Software Requirements:
+- Operating System:  Unix / Linux
+-	Programming Language: C
+-	Compiler: GCC
+
+### Hardware Requirements:
+
+-	Processor: Intel® Core™ i5-9750H Cpu @ 2.5GHz
+-	Disk Drive: Hard Disk Drive
+-	RAM: 2GB or Higher
+
+
+
