@@ -27,4 +27,4 @@ There are just 16 opcodes in LC-3. Everything the computer can calculate is some
 - Perform the instruction using the `parameters` in the instruction.
 - Follow the above steps again untill the result is achieved.
 
-![alt text](https://github.com/SrivastavaShreyas/Little-Computer-3-LC-3/issues/1)
+![Incremental Life Cytcle](https://github.com/SrivastavaShreyas/Little-Computer-3-LC-3/issues/1?raw=true)
